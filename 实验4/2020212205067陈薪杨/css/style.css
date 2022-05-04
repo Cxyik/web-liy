@@ -1,0 +1,244 @@
+.div1{
+	background-color: blue;
+	width: 20px;
+	height: 20px;
+	box-shadow: 20px,20px,3px,blue;
+}
+body{
+	/*background-image: url("../image/1.png");*/
+	width: 694px;
+	margin-left: 390px;
+}
+.index{
+	margin-top: 36px;
+	margin-left: 67px;
+}
+.left{
+	float: left;
+	width: 317.5px;
+}
+.right{
+	float: right;
+	margin-top: 4px;
+	width: 288px;
+	height: 198px;
+}
+.line{
+	width: 31px;
+	height: 2px;
+	margin-top: 13px;
+	background-color: blue;
+}
+.wz{
+	font-size: 15px;
+	margin-top: 17px;
+}
+.d{
+	width: 125px;
+	height: 30px;
+	margin-top: 17px;
+	background-color: blue;
+}
+.wz1{
+	margin-left: 15px;
+}
+.middled{
+	
+}
+.mleft{
+	margin-top: 40px;
+	margin-left: 74px;
+	float: left;
+}
+.mright{
+	margin-top: 36px;
+	float: right;
+}
+.top{
+	width: 100%;
+	margin-top: 20px;
+}
+.midd1{
+	/*float: left;*/
+	font-size: 20px;
+}
+.midd2{
+	width: 5px;
+	height: 5px;
+	margin-left: 5px;
+	background-color: blue;
+	color: blue;
+}
+.midd3{
+	margin-left: 6px;
+	margin-top: -1px;
+}
+.midd4{
+	background-color: blue;
+	margin-left: 300px;
+	width: 94px;
+	height: 22px;
+}
+.midd5{
+	margin-left: 17px;
+	position: absolute;
+    margin-top: -3px;
+}
+.midd6{
+	width: 600px;
+    font-size: 0.5px;
+    float: left;
+    margin-top: 22px;
+    margin-left: -152px;
+    border-top: 2px solid;
+    padding-top: 23px;
+}
+.midd7{
+	width: 600px;
+    float: left;
+    margin-top: 23px;
+    border-top: 1px solid;
+    padding-top: 15px;
+    font-size: 1px;
+    margin-left: 71px;
+}
+.middle1{
+	margin-top: 20px;
+	/*float: left;*/
+}
+.midd10{
+	border-radius: 9px;
+	color: blue;
+	background-color: blue;
+	margin-left: 8px;
+	width: 12px;
+}
+.midd11{
+	margin-left: 10px;
+	border-bottom: 1px solid;
+}
+.midd12{
+	margin-top: 10px;
+}
+.midd13{
+	border-radius: 9px;
+	color: green;
+	background-color: green;
+	margin-left: 8px;
+	width: 10px;
+}
+.midd14{
+	margin-left: 9px;
+    border-bottom: 1px solid;
+}
+.bottom{
+	/*width: 700px;*/
+	float: left;
+}
+.btop1{
+	float: right;
+}
+.btop{
+	float: left;
+	background-color: green;
+	color: green;
+    width: 5px;
+    height: 23px;
+    font-size: 1;
+    margin-top: 32px;
+    margin-left: 28px;
+}
+.btop1{
+	background-color: blue;
+	color: blue;
+    width: 5px;
+    height: 23px;
+    font-size: 1;
+    margin-top: 32px;
+    margin-left: 28px;
+}
+.midd15{
+	float: left;
+	margin-left: 7px;
+	margin-top: 31px;
+}
+.left1{
+	float: left;
+}
+.right1{
+	float: right;
+	margin-left: 1px;
+}
+.bwz{
+	margin-top: 88px;
+    margin-left: 133px;
+}
+.bwz1{
+	margin-top: 3px;
+    margin-left: 101px;
+    font-size: 28px;
+    color: blue;
+}
+.bwz2{
+	margin-top: 5px;
+    margin-left: 108px;
+    height: 9px;
+}
+.bwz3{
+	margin-top: 10px;
+	margin-left: 120px;
+}
+.bwz4{
+	margin-top: 26px;
+    margin-left: 109px;
+    font-size: 5;
+}
+.blue1{
+	width: 4px;
+    height: 20px;
+    background-color: blue;
+    margin-top: 32px;
+    margin-left: 116px;
+}
+.rwz{
+	margin-top: 31px;
+    margin-left: 10px;
+    font-size: 13px;
+}
+.bwz11{
+	border-radius: 5px;
+	color: white;
+    background-color: blue;
+    width: 252px;
+    height: 44px;
+    margin-left: 151px;
+    margin-top: 57px;
+}
+.marginw{
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.bwz12{
+	position: absolute;
+	margin-top: 9px;
+    margin-left: 82px;
+
+}
+.bwz13{
+	margin-left: 193px;
+    margin-top: 9px;
+    height: 6px;
+}
+.bwz14{
+	position: absolute;
+	margin-top: 11px;
+    margin-left: 196px;
+}
+.bwz15{
+	position: absolute;
+	margin-top: 28px;
+    margin-left: 217px;
+}
+.bm1{
+
+}

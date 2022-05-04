@@ -1,0 +1,166 @@
+
+
+.bk{
+	width: 800px;
+	height: 800px;
+	position: absolute;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+.m-bg{
+	width: 100%;
+	font-size: 16px;
+	color: #dc4808;
+	margin-left: 95px;
+    margin-top: 41px;
+    float: left;
+}
+.m-bg-margin{
+
+	margin-left: 60px;
+}
+.m-cg{
+	width: 100%;
+    font-size: 13px;
+    color: black;
+    margin-left: 80px;
+    float: left;
+}
+.m-cg-margin{
+	margin-left: 31px;
+}
+.m-dg{
+
+	font-size: 13.5px;
+	color: #dc4808;
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+	margin-left: 138px;
+}
+.m-eg{
+	width: 100%;
+	float: left;
+	margin-left: 71.5px;
+	margin-top: 23px;
+	font-size: 13px;
+}
+.m-fg{
+	color: #dc4808;
+	width: 100%;
+	float: left;
+	margin-left: 61px;
+	margin-top: 23px;
+	font-size: 13px;
+}
+.m-fg-margin{
+	margin-left: 32px;
+	font-size: 13.5px;
+}
+.m-gg{
+	width: 100%;
+	float: left;
+	margin-left: 61px;
+	margin-top: 10px;
+	font-size: 13px;
+}
+.m-img{
+	width: 100%;
+	float: left;
+	margin-left: 60px;
+	margin-top: 10px;
+	width: 30rpx;
+	height: 30rpx;
+}
+.m-gg-margin{
+	margin-left: 48px;
+	font-size: 13.5px;
+}
+.m-hg0{
+	float: left;
+	margin-left: 66px;
+	margin-top: 30px;
+	font-size: 13px;
+}
+.m-hg1{
+
+	float: left;
+	margin-left: 45px;
+	margin-top: 30px;
+	font-size: 13px;
+}
+.m-hg2{
+
+	float: left;
+	margin-left: 36px;
+	margin-top: 30px;
+	font-size: 13px;
+}
+.m-hg3{
+
+	float: left;
+	margin-left: 38px;
+	margin-top: 30px;
+	font-size: 13px;
+}
+.m-hg0-ma{
+	margin-left: 20rpx;
+}
+.m-hg{
+	width: 100%;
+	float: left;
+	margin-left: 66px;
+	margin-top: 4px;
+	font-size: 13px;
+}
+.m-hg-margin{
+	margin-left: 48px;
+	font-size: 13.5px;
+}
+.m-ig{
+	width: 100%;
+	float: left;
+	margin-left: 75px;
+	margin-top: 28px;
+	font-size: 13px;
+}
+.m-ig-margin{
+	margin-left: 23px;
+	font-size: 13.5px;
+}
+.m-jg{
+	width: 100%;
+	float: left;
+	margin-left: 71px;
+	margin-top: 17px;
+	font-size: 13.5px;
+}
+.m-kg{
+	width: 100%;
+	float: left;
+	margin-left: 71px;
+	margin-top: 11px;
+	font-size: 13.5px;
+}
+.m-lg{
+	width: 100%;
+	float: left;
+	margin-left: 70px;
+	margin-top: 11px;
+	font-size: 13.5px;
+}
+.margin1{
+	margin-left: 2px;
+	color: orange;
+	font-size: 15px;
+}
+.m-mg{
+	float: left;
+	margin-left: 75px;
+	margin-top: 11px;
+	font-size: 14px;
+}
+.m-image{
+	margin-left: 50rpx;
+	margin-top: 30rpx;
+}

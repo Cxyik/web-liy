@@ -1,0 +1,404 @@
+@charset "UTF-8";
+.bg {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+}
+.top {
+    width: 374px;
+    height: 52px;
+    background: #06c1ae;
+    color: white;   
+    padding: 10px;
+    border-bottom: 2px solid gray;
+}
+
+.top-1 {
+    font-size: 18px;
+}
+.top-2 {
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.top-3 {
+    margin-left: 12px;
+    margin-bottom: 16px;
+    padding-top: 5px;
+    width: 267px;
+    height: 31px;
+    font-size: 14px;
+    background: #05a494;
+}
+.top-search {
+    margin-left: 9px;
+}
+.top-4 {
+    margin-top: -8px;
+    margin-left: 14.8px;
+    font-size: 20px;
+}
+.top-4-1 {
+    font-size: 13px;
+    margin-top: -4px;
+    padding-left: 2px;
+}
+.face {
+    padding-top: 7px;
+    padding-left: 27px;
+    width: 374px;
+}
+.cir1 {
+    color: #ff8822;
+    font-size: 46px;
+}
+.cir2 {
+    color: #ea6644;
+    font-size: 46px;
+    padding-left: 55px;
+}
+.cir3 {
+    color: #7788f2;
+    font-size: 46px;
+    padding-left: 54px;
+}
+.cir4 {
+    color: #ff8822;
+    font-size: 46px;
+    padding-left: 54px;
+}
+.cir5 {
+    color: #66ccee;
+    font-size: 46px;
+    padding-top: 16px;
+}
+.cir6 {
+    color: #f7ba5b;
+    font-size: 46px;
+    padding-top: 16px;
+    padding-left: 54px;
+}
+.cir7 {
+    color: #66ccee;
+    font-size: 46px;
+    padding-top: 16px;
+    padding-left: 54px;
+}
+.cir8 {
+    color: #ff8822;
+    font-size: 46px;
+    padding-top: 16px;
+    padding-left: 54px;
+}
+.face-font {
+    font-size: 13px;
+}
+.f0 {
+    padding-left: 12px;
+}
+.f1 {
+    padding-left: 67px;
+}
+.f2 {
+    padding-left: 66px;
+}
+.f3 {
+    padding-left: 66px;
+}
+.f4 {
+    padding-left: 12px;
+}
+.f5 {
+    padding-left: 67px;
+}
+.f6 {
+    padding-left: 66px;
+}
+.f7 {
+    padding-left: 67px;
+}
+.border {
+    width: 374px;
+    height: 11px;
+    background: #f0efed;
+    border-bottom: 2px solid gray;
+    border-top: 2px solid gray;
+}
+.bd1 {
+    margin-left: -15px;
+    margin-top: 28px;
+}
+.bd2{
+    margin-left: -15px;
+    margin-top: 11px;
+}
+.bd3{
+    margin-left: -15px;
+    margin-top: 0px;
+}
+.body {
+    width: 374px;
+}
+.title {
+    font-size: 15.5px;
+    font-weight: bolder;
+}
+.tap {
+    font-size: 12px;
+}
+.tp4 {
+    margin-left: -2px;
+}
+.t1 {
+    color: #55a40f;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.t2 {
+    color: #ff3f0d;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.t3 {
+    color: #f976ba;
+    padding-top: 5px;
+}
+.t4 {
+    color: #ff8601;
+}
+.t5 {
+    color: #ea6644;
+    padding-top: 16px;
+    padding-bottom: 2px;
+}
+.t6 {
+    color: #f99e10;
+    padding-top: 16px;
+    padding-bottom: 2px;
+}
+.box1 {
+    width: 130px;
+    margin-top: 5px;
+    padding-left: 25px;
+    border-right: 1px solid gray;
+}
+.box2 {
+    width: 238px;
+    height: 75px;
+    margin-top: 5px;
+    padding-left: 18px;
+    border-bottom: 1px solid gray;
+}
+.box3 {
+    width: 250px;
+    height: 70px;
+    margin-top: -69px;
+    padding-left: 149px;
+    border-right: 1px solid gray;
+}
+.box4 {
+    margin-top: -64.5px;
+    padding-left: 269px;
+}
+.box5 {
+    width: 162px;
+    height: 75px;
+    margin-left: 25.6px;
+    margin-top: px;
+    border-right: 1px solid gray;
+}
+.noborder {
+    border: 0px;
+}
+.square1 {
+    width: 85px;
+    height: 88px;
+    margin-top: 5px;
+    background: #666666;
+}
+.square2 {
+    width: 63px;
+    height: 65px;
+    margin-left: 131px;
+    margin-top: -48px;
+    background: #666666;
+}
+.square3 {
+    width: 39px;
+    height: 36px;
+    margin-left: 25px;
+    margin-top: 5px;
+    background: #666666;
+}
+.square4 {
+    width: 64px;
+    height: 64px;
+    margin-left: 88px;
+    margin-top: -54px;
+    background: #666666;
+}
+.time {
+    margin-top: 8px;
+    width: 20px;
+    height: 15px;
+    color: white;
+    font-size: 12px;
+    font-weight: bolder;
+    background: #4c4c4c;
+    border-radius: 2px;
+    text-align: center;
+    
+}
+.hour {
+    padding-bottom: 18px;
+}
+.min {
+    margin-top: -24px;
+    margin-left: 23.2px;
+    padding-bottom: 18px;
+}
+.sec {
+    margin-top: -22px;
+    margin-left: 45.2px;
+    padding-bottom: 18px;
+}
+.mao1 {
+    margin-top: -18px;
+    margin-left: 19.2px;
+}
+.mao2 {
+    margin-top: -20px;
+    margin-left: 41.99px;
+}
+.foot {
+    width: 374px;
+    margin-left: -5px;
+    margin-top: 10px;
+}
+.f-head {
+    width: 500px;
+    height: 19px;
+    font-size: 18.4px;
+}
+.line {
+    height: 19px;
+    font-size: 16.56px;
+}
+.f-minu {
+    height: 79px;
+    overflow: hidden;
+    margin-top: 6px;
+}
+.minu1 {
+    margin-top: 5px;
+}
+.minu2 {
+    margin-top: 5px;
+}
+.minu3 {
+    margin-top: 5px;
+}
+.f-square {
+    width: 90px;
+    height: 80px;
+    background: #666666;
+}
+.f-tab {
+    background: #00c2af;
+    transform: rotate(-45deg);
+    color: white;
+    font-size: 0.4em;
+    width: 75px;
+    text-align: center;
+    padding: 1px;
+    margin-top: -69px;
+    margin-left: -20px;
+}
+.f-tit {
+    font-size: 15.5px;
+    margin-top: -32px;
+    margin-left: 100px;
+}
+.f-fot {
+    margin-left: 99px;
+    margin-top: 2px;
+    font-size: 12px;
+}
+.f-mon {
+    margin-left: 100px;
+    margin-top: 9.5px;
+    font-size: 21px;
+    color: #00c2af;
+}
+.fm1 {
+    margin-top: 12px;
+}
+.fm2 {
+    margin-top: 12px;
+}
+.mon2 {
+    font-size: 12px;
+    margin-left: 25px;
+    margin-top: -20.4px;
+}
+.mon2-1 {
+    margin-left: 39px;
+}
+.f-tap {
+    border: 1px solid #ff9900;
+    border-radius: 3px;
+    width: 50px;
+    height: 20px;
+    font-size: 12.4px;
+    color: #ff9900;
+    padding-bottom: 18px;
+    margin-left: 147px;
+    margin-top: -20px;
+    text-align: center;
+}
+.f-tap1 {
+    height: 20px;
+    font-size: 12px;
+    padding-bottom: 18px;
+    margin-left: -3px;
+    margin-top: -17px;
+    text-align: center;
+}
+.f-tap2 {
+    height: 20px;
+    font-size: 12px;
+    padding-bottom: 18px;
+    margin-left: 28px;
+    margin-top: -17px;
+    text-align: center;
+}
+.f-num {
+    width: 67px;
+    text-align: right;
+    margin-left: 288px;
+    margin-top: -17px;
+    font-size: 12px;
+}
+.num1 {
+    margin-top: -19px;
+}
+.num2 {
+    margin-top: -20px;
+}
+.bottom {
+    width: 375px;
+    height: 41px;
+    font-size: 16px;
+    margin-top: 96px;
+    margin-left: -365px;
+    padding-top: 8px;
+    padding-left: 9px;
+    color: #4bb0cc;
+    background: #a0c5e8;
+}
+.rig {
+    margin-left: 345px;
+    margin-top: -25px;
+}
+.notab {
+    background: #666666;
+}

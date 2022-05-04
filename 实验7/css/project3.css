@@ -1,0 +1,41 @@
+.main .item:nth-child(1) {
+    display: none;
+}
+
+.item {
+    position: relative;
+    height: 50px;
+    width: 800px;
+    background-color: rgb(200,255,200);
+    margin: 10px auto;
+}
+
+.item .u-left {
+	display: flex;
+    height: 50px;
+    width: 80px;
+    background-color: khaki;
+    color: black;
+    align-items: center;
+    justify-content: center;
+}
+
+.item .u-right {
+    display: inline-block;
+    height: 50px;
+    width: 150px;
+    background-color: rgb(180,255,255);
+    color: coral;
+    margin-left: 800px;
+    margin-top: -50px;
+    text-align: center;
+    font-size: 25px;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(100,255,255);
+    color: white;
+    margin-left: 60vw;
+}

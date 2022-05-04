@@ -1,0 +1,43 @@
+.m-menu{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.m-each{
+	width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+.m-first{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(200, 255, 255);
+}
+.m-second{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(150, 255, 255);
+}
+.m{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(150, 255, 255);
+}
+
+
+.m-third{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(100, 255, 255);
+}
+.m-xy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

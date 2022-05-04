@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.big {
+    display: none;
+    position: absolute;
+    height: 100vh;
+    width: 50vw;
+    background-color: lightgray;
+}
+
+.big .big-center {
+    position: absolute;
+    top: 20%;
+    width: 60%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    width: 17vw;
+    height: 200px;
+    margin: 30px 10px;
+}

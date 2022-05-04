@@ -1,0 +1,432 @@
+body { background: #e1e1e1;}
+
+.g-project9_2 {
+    width: 1519px;
+    height: 2147px;
+    background: #fff;
+}
+
+/**********************头部**********************/
+.m-hd {
+    width: 100%;
+    height: 109px;
+    background: rgb(1, 140, 235);
+}
+
+.m-hd > div { 
+    float: left;
+    width: 50%;
+    height: 109px;
+}
+
+.m-nav > span {
+    float: left;
+    font-size: 20px;
+    width: 70px;
+    height: 46px;
+    color: #fff;
+    text-align: center;
+}
+.m-nav > span:nth-child(1) {
+    margin: 42px 0 0 131px;
+    line-height: 48px;
+    border: 1px solid rgb(1, 105, 176);
+    background: rgb(1, 105, 176);
+    border-radius: 5px;
+}
+.m-nav > span:nth-child(2) { margin: 52px 0 0 45px;}
+.m-nav > span:nth-child(3) { margin: 52px 0 0 60px;}
+.m-nav > span:nth-child(4) { margin: 52px 0 0 55px;}
+.m-nav i {
+    position: absolute;
+    margin: 2px 0 0 10px;
+    font-size: 14px;
+}
+
+.m-sech > div { float: right;}
+
+.u-sg_up {
+    margin: 9px 106px 0 0;
+    font-size: 18px;
+    color: #fff;
+}
+.u-sg_up > span+span {
+    border-left: 1px solid #fff;
+    padding-left: 11px; 
+}
+.u-sg_up > span:nth-child(1) { padding-right: 3px;}
+
+.u-sech {
+    clear: right;
+    width: 300px;
+    height: 34px;
+    border: 1px solid #fff;
+    margin: 12px 105px 0 0;
+    background: #fff;
+}
+
+.u-sech > span:nth-child(1) {
+    float: left;
+    width: 70px;
+    height: 100%;
+    font-size: 17px;
+    padding-left: 5px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    background: rgb(249, 249, 249);
+}
+.u-sech > span:nth-child(1) i {
+    position: absolute;
+    font-size: 13px;
+    margin: 7px 0 0 5px;
+    color: rgb(175, 175, 175);
+}
+
+.u-sech > span:nth-child(2) {
+    float: right;
+    width: 35px;
+    height: 100%;
+}
+.u-sech > span:nth-child(2) i {
+    position: absolute;
+    margin: 8px 0 0 8px;
+    font-size: 17px;
+    color: rgb(166, 166, 166);
+}
+
+
+/**********************身体**********************/
+.m-bd {
+    width: 1519px;
+    height: 2038px;
+    background: #fff;
+}
+.m-bd > * { float: left;}
+
+/*左部*/
+.m-bd_l {
+    margin-left: 108px;
+    width: 860px;
+    height: 2038px;
+}
+
+.m-bd_l > .s-img {
+    margin-top: 27px;
+    width: 100%;
+    height: 340px;
+}
+
+.m-bd_l > span {
+    position: absolute;
+    margin-top: 25px;
+    font-size: 25px;
+    letter-spacing: -1.5px;
+}
+
+.u-con {
+    width: 100%;
+    margin-top: 70px;
+    height: 1601px;
+    border: 2px solid #e2e2e2;
+    border-bottom: 0px;
+}
+
+.u-con_r1, .u-con_r2, .u-con_r4 { height: 260px;}
+.u-con_r3 { height: 351px;}
+.u-con_r1 > *, .u-con_r2 > *, .u-con_r3 > *, .u-con_r4 > * { height: 100%;}
+.u-con_r5 { height: 251px;}
+.u-con_r6 { height: 217px;}
+
+.u-cr1_1 > *{
+    float: left;
+    clear: left;
+    width: 97%;
+    word-break: break-all;
+    margin: 30px 0 0 2px;
+    font-size: 23px;
+    letter-spacing: -1.7px;
+}
+.u-cr1_1 > span + div {
+    margin: 15px 0 0 2px;
+    font-size: 20px;
+    letter-spacing: -1.25px;
+    line-height: 31.5px;
+    color: rgb(136, 136, 136);
+}
+.u-cr1_1 .u-data { margin: 49px 0 0 0;}
+
+.u-cr1_2 > *, .u-cr2 > *, .u-cr3 > *, .u-cr4 > *, .u-con_r6 > * {
+    float: left;
+    clear: left;
+}
+
+.u-cr1_2 .s-img {
+    margin: 22px 0 0 3px;
+    width: 245px;
+    height: 135px;
+}
+.u-cr1_2 > span {
+    margin: 4px 0 0 2px;
+    letter-spacing: -2px;
+    font-size: 21px;
+}
+.u-cr1_2 .u-data { margin: 29px 0 0 2px;}
+
+.u-cr2 .s-img {
+    margin: 21px 0 0 5px;
+    width: 243px;
+    height: 135px;
+}
+.u-ppt {
+    margin: 11px 0 0 3px;
+    border: 1px solid rgb(227, 76, 12);
+    border-radius: 4px;
+    width: 37px;
+    height: 19px;
+    text-align: center;
+    font-size: 13px;
+    color: #fff;
+    background: rgb(253, 121, 59);
+}
+.u-ppt+span {
+    margin: -2px 0 0 2px;
+    font-size: 20px;
+    letter-spacing: -1.3px;
+}
+.u-cr2 .u-data { margin: 8px 0 0 2px;}
+
+.u-cr3 .s-img {
+    margin: 21px 0 0 5px;
+    width: 380px;
+    height: 200px;
+}
+.u-cr3 > span {
+    margin: 5px 0 0 4px;
+    font-size: 20px;
+    letter-spacing: -1.2px;
+}
+.u-cr3 .u-data { margin: 57px 0 0 5px;}
+
+.u-cr4 .s-img {
+    margin: 22px 0 0 4px;
+    width: 243px;
+    height: 135px;
+}
+.u-cr4 img {
+    margin: 96px 0 0 7px;
+    width: 30px;
+}
+.u-cr4 > span {
+    margin: 5px 0 0 2px;
+    font-size: 20px;
+    letter-spacing: -1.3px;
+}
+.u-cr4 .u-data {margin: 29px 0 0 3px;}
+
+.u-con_r5 > *{ float: left;}
+
+.u-con_r5 .s-img {
+    margin: 22px 0 92px 19px;
+    width: 243px;
+    height: 135px;
+}
+.u-con_r5 > span {
+    margin: 25px 0 0 28px;
+    font-size: 20px;
+    letter-spacing: -1.3px;
+}
+.u-con_r5 > span+div {
+    margin: 23px 0 0 28px;
+    width: 543px;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: -1.3px;
+    color: rgb(136, 136, 136);
+    word-break: break-all;
+}
+.u-con_r5 .u-data { margin: 5px 0 0 388px;}
+
+.u-con_r6 > span {
+    margin: 25px 0 0 17px;
+    font-size: 20px;
+    letter-spacing: -1.2px;
+}
+.u-con_r6 > span+div {
+    margin: 23px 0 0 17px;
+    font-size: 20px;
+    letter-spacing: -1.25px;
+    line-height: 32px;
+    width: 815px;
+    color: rgb(136, 136, 136);
+    word-break: break-all;
+}
+.u-con_r6 .u-data { margin: 6px 0 0 640px;}
+
+/*右部*/
+.m-bd_r {
+    margin-left: 27px;
+    margin-top: 27px;
+    width: 417px;
+    height: 1400px;
+}
+
+.u-r_r1 { 
+    height: 344px;
+    background: rgb(244, 244, 244);
+}
+
+.u-r_r1 > * {
+    float: left;
+    clear: left;
+}
+.u-r_r1 > span {
+    margin: 40px 0 0 94px;
+    font-size: 20px;
+    letter-spacing: -1.4px;
+}
+.u-btn {
+    width: 192px;
+    height: 51px;
+    border: 1px solid rgb(16, 145, 228);
+    background: rgb(0, 156, 255);
+    border-radius: 5px;
+    margin: 37px 0 0 111px;
+}
+.u-cot_box {
+    border-top: 1px dashed rgb(204, 204, 204);
+    margin: 63px 0 0 35px;
+    width: 348px;
+    height: 110px;
+}
+.u-cot {
+    float: left;
+    margin: 37px 28px 0 43px;
+    font-size: 20px;
+    letter-spacing: 0px;
+}
+.u-cot:nth-last-child(2), .u-cot:last-child { margin: 4px 20px 0 43px;}
+.u-cot span { color: rgb(20, 147, 212);}
+.u-cot span+span { color: rgb(136, 136, 136);}
+
+.u-r_r2 { height: 50px;}
+
+.u-r_r2 span {
+    float: left;
+    margin: 22px 0 0 0px;
+    font-size: 24px;
+}
+.u-r_r2 span:last-child {
+    float: right;
+    margin: 26px -1px 0 0;
+    font-size: 18px;
+}
+
+.u-r_r3, .u-r_r4 {
+    margin-top: 16px;
+    height: 333px;
+    border: 2px solid #e2e2e2;
+    border-bottom: 4px solid rgb(0, 145, 238);
+}
+
+.u-r_r3 > *, .u-r_r4 > *, .u-r_r5 > * {
+    float: left;
+    clear: left;
+}
+
+.u-r_r3 .s-img, .u-r_r4 .s-img {
+    position: absolute;
+    margin: 21px 0 0 21px;
+    width: 370px;
+    height: 135px;
+}
+.u-r_r3 img, .u-r_r4 img {
+    position: absolute;
+    margin: 0 0 0 314px;
+    width: 100px;
+}
+.u-r_r3 > span:nth-child(3), .u-r_r4 > span:nth-child(3) {
+    margin: 168px 0 0 20px;
+    font-size: 22px;
+    letter-spacing: 0.5px;
+}
+.u-r_r3 > span:nth-child(4), .u-r_r4 > span:nth-child(4) {
+    margin: 6px 0 0 21px;
+    font-size: 18px;
+    color: rgb(136, 136, 136);
+}
+.u-r_r3 > span:nth-child(5), .u-r_r4 > span:nth-child(5) {
+    margin: 10px 0 0 21px;
+    font-size: 18px;
+    color: rgb(136, 136, 136);
+}
+.u-r_r3 .u-data, .u-r_r4 .u-data { margin: 14px 0 0 26px;}
+
+.u-r_r5 {
+    margin-top: 15px;
+    height: 293px;
+    border: 2px solid #e2e2e2;
+}
+
+.u-tt {
+    margin: 0 0 0 20px;
+    border-bottom: 1px dashed rgb(204, 204, 204);
+    width: 90%;
+    height: 70px;
+}
+.u-tt > * { float: left;}
+.u-tt > span {
+    margin: 22px 0 0 2px;
+    letter-spacing: -0.8px;
+    font-size: 24px;
+}
+.u-tt > span+span {
+    margin: 22px 0 0 0;
+    color: rgb(0, 145, 238);
+}
+.u-tt > span:last-child {
+    float: right;
+    font-size: 18px;
+    margin: 28px 1px 0 0;
+    color: rgb(204, 204, 204);
+}
+
+.u-r_r5 .s-img {
+    margin: 28px 0 0 90px;
+    width: 235px;
+    height: 138px;
+}
+.u-r_r5 .s-img span {
+    position: absolute;
+    width: 233px;
+    height: 36px;
+    color: #fff;
+    margin-top: 100px; 
+    text-align: center;
+    line-height: 35px;
+    font-size: 19px;
+    background: rgba(0, 0, 0, .5);
+}
+
+
+/********************通用区************************/
+.u-data {
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: rgb(153, 153, 153);
+}
+.u-data > span:first-child { padding-right: 10px;}
+.u-data > span+span {
+    border-left: 2px solid rgb(153, 153, 153);
+    padding-left: 13px;
+}
+
+
+/********************风格区************************/
+.s-img {
+    background: rgb(102, 102, 102);
+    border: 1px solid rgb(192, 192, 192);
+}
+
+.s-bb { border-bottom: 2px solid #e2e2e2;}
+.s-bl { border-left: 2px solid #e2e2e2;}
+

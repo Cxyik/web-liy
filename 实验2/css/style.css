@@ -1,0 +1,147 @@
+/*#div{
+	color: red;
+	font-family: "sans-serif";
+	background-image: url(/az.png);
+}
+h1{
+	text-align: left;
+}
+a:hover{
+	color: red;
+}*/
+body{
+	margin: 0;
+}
+
+.bk{
+	position: absolute;
+	width: 1063px;
+	height: 544px;
+	opacity: 0.7;
+}
+
+.menu{
+	padding: 11px;
+	font-size: 11px;
+	opacity: 1;
+}
+
+.menu0{/*菜单栏
+	/*margin-left: 48.5px;
+	padding: 14px;
+	font-size: 14px;
+	font-weight: bolder;*/
+
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 7px;
+	margin-left: 53px;
+}
+
+
+.right-body{
+	margin-top: 35px;
+	float: right;
+	height: 500px;
+	width: 50%;
+}
+.left-body{
+	margin-top: 37px;
+	float: left;
+	height: 500px;
+	width: 50%;
+}
+.first{
+	margin-top: 35px;
+	font-size: 13px;
+	margin-left: 34px;
+	color: grey;
+}
+.second{
+	margin-top: 2.5px;
+	font-size: 18.4px;
+	margin-left: 33px;
+	font-weight: bold;
+}
+.second2{
+	margin-top: 2.5px;
+	font-size: 18.7px;
+	margin-left: 33px;
+	font-weight: bold;
+}
+.third{
+	color: grey;
+	color: black;
+	margin-top: 5px;
+	font-size: 13.4px;
+	margin-left: 33px;
+}
+.four{
+	color: black;
+	margin-top: 15.5px;
+	font-size: 12.3px;
+	margin-left: 33px;
+}
+.five{
+	color: grey;
+	color: black;
+	margin-top: 5px;
+	font-size: 12.5px;
+	margin-left: 33px;
+}
+.first1{
+	color: grey;
+	margin-top: 50px;
+	font-size: 13px;
+	margin-left: 34px;
+}
+
+
+
+.firstl{
+	margin-top: 66.5px;
+	font-size: 19.3px;
+	margin-left: 1px;
+}
+
+.xuhao{
+	margin-top: 50px;
+	float: left;
+}
+
+.xuh1{
+	font-size: 25px;
+}
+.xuh{
+	margin-top: 95px;
+	font-size: 25px;
+}
+.english{
+	
+}
+
+
+.firste{
+	margin-top: 51px;
+	margin-left: 48px;
+	font-size: 15px;
+}
+.firstw{
+	margin-top: 27px;
+	margin-left: 48px;
+	font-size: 15px;
+}
+.two{
+	margin-left: 48px;
+	font-size: 15px;
+}
+.three{
+	margin-top: 7px;
+	margin-left: 48px;
+	font-size: 12.5px;
+}
+.fouth{
+	margin-top: 2px;
+	margin-left: 48px;
+	font-size: 12.3px;
+}
